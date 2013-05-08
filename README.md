@@ -7,4 +7,4 @@ lifeparallel.cpp - Runs a number of Conway's Game of Life simulations on a distr
 
 split_life_game.cpp - Runs a simulation of Conway's Game of Life once with a distributed system. Management of the grid for this simulation is divided among four processors.
 
-These programs were written for a Parallel Computing class and are based on an existing serial C program for the Game of Life provided by the professor.
+These programs were written for a Parallel Computing class. They are based on an existing serial C program for the Game of Life provided by the professor, upon which I added the MPI implementations for running in parallel.
